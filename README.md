@@ -1,2 +1,2 @@
 # IBM_Data_Science
-Repository for IBM Data Science course
+Repository for IBM Data Science Course
